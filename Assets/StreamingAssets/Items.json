@@ -1,0 +1,156 @@
+[ // Square brackets act as our container
+  { // Braces act as our object
+    "id": 0,
+    "title": "Steel Gloves",
+    "value": 7,
+    "stats": {
+      "power": 1,
+      "defence": 4,
+      "vitality": 10
+    },
+    "description": "These gloves are fuckin gay",
+    "stackable": false,
+    "rarity": 2,
+    "sprite": "steel_gloves"
+  },
+  { // Braces act as our object
+    "id": 1,
+    "title": "Gnome Child's Beating Heart",
+    "value": 100,
+    "stats": {
+      "power": 1000,
+      "defence": 1000,
+      "vitality": 1000
+    },
+    "description": "The heart of the most powerful being in the multiverse.",
+    "stackable": false,
+    "rarity": 1000,
+    "sprite": "gnome_child"
+  },
+  { // Braces act as our object
+    "id": 2,
+    "title": "Poop",
+    "value": 0,
+    "stats": {
+      "power": 1,
+      "defence": 1,
+      "vitality": -1
+    },
+    "description": "Don't use this as a weapon.",
+    "stackable": false,
+    "rarity": -1,
+    "sprite": "poop"
+  },
+  { // Braces act as our object
+    "id": 3,
+    "title": "Blunt Sword",
+    "value": 1,
+    "stats": {
+      "power": -1,
+      "defence": 0,
+      "vitality": 1
+    },
+    "description": "The worst weapon you could use.",
+    "stackable": false,
+    "rarity": 0,
+    "sprite": "blunt_sword"
+  },
+  { // Braces act as our object
+    "id": 4,
+    "title": "Gnome Child's Head",
+    "value": 10000000,
+    "stats": {
+      "power": 100000,
+      "defence": 1000000,
+      "vitality": 1000001
+    },
+    "description": "Uncomfortable but effective.",
+    "stackable": false,
+    "rarity": 100000,
+    "sprite": "gnome_child"
+  },
+  { // Braces act as our object
+    "id": 5,
+    "title": "Gold Sword",
+    "value": 200,
+    "stats": {
+      "power": 20,
+      "defence": 20,
+      "vitality": 20
+    },
+    "description": "More aesthetic than it is useful.",
+    "stackable": false,
+    "rarity": 1,
+    "sprite": "gold_sword"
+  },
+  { // Braces act as our object
+    "id": 6,
+    "title": "Silver Sword",
+    "value": 100,
+    "stats": {
+      "power": 10,
+      "defence": 10,
+      "vitality": 10
+    },
+    "description": "Highly inefficient.",
+    "stackable": false,
+    "rarity": 1,
+    "sprite": "silver_sword"
+  },
+  { // Braces act as our object
+    "id": 7,
+    "title": "Bronze Sword",
+    "value": 10,
+    "stats": {
+      "power": 1,
+      "defence": 1,
+      "vitality": 1
+    },
+    "description": "Created during the great silver and gold drought of 1385.",
+    "stackable": false,
+    "rarity": 1,
+    "sprite": "bronze_sword"
+  },
+  { // Braces act as our object
+    "id": 8,
+    "title": "White Gloves",
+    "value": 2,
+    "stats": {
+      "power": 1,
+      "defence": 2,
+      "vitality": 5
+    },
+    "description": "MJ's gloves",
+    "stackable": false,
+    "rarity": 2,
+    "sprite": "white_gloves"
+  },
+  { // Braces act as our object
+    "id": 9,
+    "title": "Dragon Platebody",
+    "value": 2,
+    "stats": {
+      "power": 1,
+      "defence": 2,
+      "vitality": 5
+    },
+    "description": "Made from a platedragon's body.",
+    "stackable": false,
+    "rarity": 2,
+    "sprite": "white_gloves"
+  },
+      { // Braces act as our object
+    "id": 10,
+    "title": "Dragon leggings",
+    "value": 2,
+    "stats": {
+      "power": 1,
+      "defence": 2,
+      "vitality": 5
+    },
+    "description": "MJ's gloves",
+    "stackable": false,
+    "rarity": 2,
+    "sprite": "white_gloves"
+  },
+]
